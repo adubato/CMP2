@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
-
+//this is a test for github
 public class arrayTest 
 {
 	public static void arrayTest()
